@@ -1,5 +1,5 @@
 
-# Roteiro para tornar o Inova Leagues funcional no Supabase
+# Esse é o roteiro para tornar o Inova Leagues funcional no Supabase
 
 O protótipo hoje é 100% visual (mock em `src/lib/mock-data.ts` e `src/lib/competitions-data.ts`). Autenticação, perfis e papéis (admin/coordenador/aluno) já existem no banco. Falta modelar e conectar: equipes, membros, competições, marcos, tarefas (kanban), mensagens de chat e eventos de agenda.
 
